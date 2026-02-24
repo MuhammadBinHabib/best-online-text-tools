@@ -84,7 +84,7 @@ This is not a directory. Every tool is tested for speed, usability, and real uti
 - Developer Text Tools  
 - SEO & Content Utilities  
 
-## ➕ Suggest a Tool (PAID)
+## ➕ Sumbit a Tool (PAID)
 Go to the **Issues tab → New Issue → Tool submission**
 Or email at m.habib522@gmail.com
 
